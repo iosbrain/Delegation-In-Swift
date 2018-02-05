@@ -17,7 +17,7 @@ Here's the UML diagram for the app's code:
 
 ![alt text][logo3]
 
-[logo3]: http://iosbrain.com/wp-content/uploads/2018/02/UML-Delegation.png "UML for app demonstrating delegation"
+[logo3]: http://iosbrain.com/wp-content/uploads/2018/02/UML-Legend.png "UML for app demonstrating delegation"
 
 ## Xcode 9 project settings
 **To get this project running on the Simulator or a physical device (iPhone, iPad)**, go to the following locations in Xcode and make the suggested changes:
