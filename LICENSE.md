@@ -1,3 +1,5 @@
+ # MIT License
+ 
  Copyright (c) 2018 Andrew L. Jaffee, microIT Infrastructure, LLC, and
  iosbrain.com.
  
