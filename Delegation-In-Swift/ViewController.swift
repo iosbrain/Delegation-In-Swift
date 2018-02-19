@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  Delegation-In-Swift
 //
-//  Created by Software Testing on 2/4/18.
-//
 /*
  
  Copyright (c) 2018 Andrew L. Jaffee, microIT Infrastructure, LLC, and
